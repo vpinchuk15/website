@@ -12,7 +12,7 @@ export const SocialData=[
     {
         platform:"Linkedin",
         link:"https://www.linkedin.com/in/vladimir-pinchuk/",
-        icon: require("./../assets/icons/linkedin.png").default
+        icon: require("../../assets/icons/linkedin.png").default
     },
     {
         platform:"Facebook",
