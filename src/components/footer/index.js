@@ -1,9 +1,9 @@
 import React from 'react'
-
+import './footer.css'
 function Footer() {
     return (
-        <div>
-            This is footer
+        <div className="footer">
+            © 2021 Vladimir Pinchuk. No rights reserved.
         </div>
     )
 }
