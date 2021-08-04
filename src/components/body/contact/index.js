@@ -9,11 +9,11 @@ function Contact() {
             <label className="section-title">Contact</label>
             <div className="contact-container">
                 <div className="contact-left">
-                    <p>Feel free to reach with any of these platforms</p>
+                    <p>Feel free to reach out on any of these platforms!</p>
                     <SocialContact />
                 </div>
                 <div className="download">
-                    <a download href={require('../../../assets/Resume.pdf').default}>
+                    <a href={require('../../../assets/Vladimir_Pinchuk_Resume.pdf').default} Download="Vladimir_Pinchuk_Resume">
                         <i class="fi-rr-cloud-download download-icon"/>
                         Download Resume
                     </a>
