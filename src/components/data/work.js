@@ -5,7 +5,7 @@ export const WorkData=[
         dateJoining:"06-01-2020",
         dateEnd:"08-14-2020",
         companyLogo:"https://ayaliving.com/wp-content/uploads/aya_logo.png",
-        work:"Tests sadhkj gas sadhkjgas sadh kjgas sad hkjg as sadhkjg as s adhkjgas sadhkjgas"
+        work:"Testss sadhkj gas sadhkjgas sadh kjgas sad hkjg as sadhkjg as s adhkjgas sadhkjgas"
     },
     {
         company:"TheRealReal",
