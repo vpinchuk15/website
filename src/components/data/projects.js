@@ -2,7 +2,7 @@ export const ProjectData=[
     {
         id:1,
         title:"Chatbot",
-        about:"This is my personal assistant that fills in for the times that I am not at my computer or available!",
+        about:"This is my chatbot that I could use for the time that I am not available but still want somebody to leave a message behind. This bot is trained to give basic responses to very general questions.",
         tags:["Python", "Machine Learning", "Neural Networks", "tensorflow"],
         demo:"",
         github:"https://github.com/vpinchuk15/chatbot",
